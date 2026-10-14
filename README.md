@@ -230,4 +230,4 @@ Paper: https://cs229.stanford.edu/proj2015/118_report.pdf
 - **Name:** Sanapala Venkata Maneesh | **SRN:** PES1UG24AM247
 - **Name:** Shristi Shukla  | **SRN:** PES1UG24AM247
 
-This project was completed collaboratively by the team. Both members' names, student IDs, and individual contributions should be added here before submission.
+
